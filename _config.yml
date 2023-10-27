@@ -1,11 +1,11 @@
 # Setup
-title:               Diego Derman
-tagline:             'Github page'
-description:         'This would be the description.'
-url:                 http://diegoderman.github.io
-baseurl:             ''
-paginate:            5
-permalink:           pretty
+#title:               Diego Derman
+#tagline:             'Github page'
+#description:         'This would be the description.'
+#url:                 http://diegoderman.github.io
+#baseurl:             ''
+#paginate:            5
+#permalink:           pretty
 
 # About/contact
 author:
