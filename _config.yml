@@ -2,7 +2,7 @@
 title:               Diego Derman
 #tagline:             'Github page'
 description:         'This would be the description.'
-#baseurl:             ''
+baseurl:             ''
 #paginate:            5
 #permalink:           pretty
 
