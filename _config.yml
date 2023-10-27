@@ -1,8 +1,7 @@
 # Setup
-#title:               Diego Derman
+title:               Diego Derman
 #tagline:             'Github page'
-#description:         'This would be the description.'
-#url:                 http://diegoderman.github.io
+description:         'This would be the description.'
 #baseurl:             ''
 #paginate:            5
 #permalink:           pretty
